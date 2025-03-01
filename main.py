@@ -2,10 +2,10 @@ from gtts import gTTS
 from playsound import playsound
 
 # Texto que você quer converter em áudio
-texto = "bosta de cachorro"
+texto = "ta trollano"
 
 # Idioma do texto (pt = português)
-language = 'de'
+language = 'en'
 
 # Cria o objeto gTTS com o texto e o idioma
 sp = gTTS(text=texto, lang=language, slow=False)
